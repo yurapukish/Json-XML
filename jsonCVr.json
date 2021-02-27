@@ -1,0 +1,38 @@
+{
+    "FirstName" :   "Yura",
+    "LastName"  :   "Pukish",
+    "age"   : 26,
+    "Picture"   : "",
+    "Contacts"  : { "Phone" : "+380500709231", 
+                    "Email"  :   "yurapykish@gmail.com"
+                  },
+    "SocialLinks"   : {"Telegram"   :   "https://t.me/yurapykish",  
+                       "Facebook"  :   "https://www.facebook.com/yura.pukish.7",
+                       "Linkedin" :    "https://www.linkedin.com/in/yurapykish/"
+                       },
+                
+    "DesirePosition"    :   "JuniorQA",
+    "BadHabbit" :   "",
+    "Education" : "Specialist in Economics",
+    "Languages" : ["Ukrainian", "English", "Russian"],
+    "TechSkills"    :   ["HTML","CSS","PYTHON","GIT","POSTMAN","SQL","JIRA","BASH"],
+    "FinishedCourses"   : true,
+    "WorkExperience" : [{"Position" : "PR Specialist, Site Administrator",
+                         "Company"  : "BVS-Rabota employment Agency",
+                         "WorkingPeriod" : "01.09.2017-12.06.2018",
+                         "Responsobility" : ["PR and promotion Facebook groups, attracted more than 5000 people",
+                                             "Consultation clients (documents, terms)",
+                                             "Web site administration, fix/correct/add content on site; part-time",
+                                              "Create video blog",
+                                               "Life and work in Czech Republic" ]},
+                        {"Position" : "Sales Manager, Site Administrator",
+                         "Company"  : "Production and trading company 'Visamor'",
+                         "WorkingPeriod" : "01.06.2016 - 12.11.2016",
+                         "Responsobility" : [" Create and administrate web-site, add and edit content",
+                                             "Sales manager",
+                                             "Consultation clients"]
+                        }],
+
+    "Hobbies"  :   ["Football","Cars","Poker", "Beer and pizza", "Joking", "Skiing", "English conversation on FreeForTalk",
+                    "Walk with my dog and being alone","Learning new thing"]
+}
